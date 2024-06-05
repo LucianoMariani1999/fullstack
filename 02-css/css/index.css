@@ -23,5 +23,6 @@ div {
 /* 2. Selector de CLASE: si lo podemos utilizar mas de una vez */
 .colorFondo {background-color: violet;}
 
-.textoGrande {font-size: 60px;}
-/*  */
+.textoGrande{
+  font-size: 60px;}
+

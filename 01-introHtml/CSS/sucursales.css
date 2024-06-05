@@ -1,0 +1,30 @@
+/* regla para el uso de una tipografía local (desscargada) */
+@font-face {
+    font-family: "automali";
+    font-size: 300;
+    src: url("../assets/font/VintagersDemoRegular.ttf");
+    
+}
+
+ol li {
+    color: brown;
+}
+
+p{
+  font-size: 24px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.folder-font{
+    font-family: automali;
+    font-size: 25px;
+}
+
+.google-fonts {
+    
+  font-family: "Pacifico", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+ }
+      
